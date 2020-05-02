@@ -26,3 +26,4 @@ Hugo 是Go语言实现的一个博客生成器 世界上最快的博客生成器
 *  双击打开public/index.html 发现不能预览
 *  因为public/index.html不能使用文件协议预览
 *  请使用hugo server 预览
+*  
