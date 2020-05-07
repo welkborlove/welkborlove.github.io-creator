@@ -77,7 +77,7 @@ draft: false
   * Layout布局(文档流 盒模型 计算大小和位置)
   * Paint绘制(把边框颜色 文字颜色 阴影等画出来)
   * Compose合成(根据层叠关系展示画面)
-![图片](707.png)
+(![](https://ftp.bmp.ovh/imgs/2020/05/a53b6f36c9ab6216.png))
   * 有三种更新方法
   * js/css>样式>布局>绘制>合成
   * js/css>样式>绘制>合成
@@ -86,7 +86,7 @@ draft: false
   * fransfoum的四个常用功能 位移translate 缩放 scale 旋转rotate 倾斜skew 
   * 经验 一般都需要配合transition过度 
   * inline元素不支持transition 先变成block
-  ![图片](6.png)
+  ![](https://ftp.bmp.ovh/imgs/2020/05/8d4a018477123c51.png)
    * 如何更新样式
    * 一般我们用JS来更新
    * 比如div.style.background = 'red'
